@@ -1,5 +1,7 @@
 # README
 
+Projeto desenvolvido com base no curso "MindApp - Desenvolvendo uma Cloud Tags com Ruby" da Digital Innovation One
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
